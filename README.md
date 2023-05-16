@@ -4,7 +4,7 @@ Testing financial theory within python
 
 This repository contains the following files:
 
-1. Time Series Analysis - Housing Prices
+1. Time Series Analysis - Housing Prices  
   a. Data was obtained from Redfin  
   b. 01_ARIMA_Price_Predictions  
 2. Weighted Avergae Cost of Capital  
