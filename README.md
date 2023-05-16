@@ -6,7 +6,7 @@ This repository contains the following files:
 
 1. Time Series Analysis - Housing Prices  
   a. Data was obtained from Redfin  
-  b. 01_ARIMA_Price_Predictions  
+  b. 01_ARIMA_Home_Price_Predictions  
 2. Weighted Avergae Cost of Capital  
   a. 02_WACC  
 3. Net Present Value  
