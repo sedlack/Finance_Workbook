@@ -14,3 +14,6 @@ This repository contains the following files:
 3. Net Present Value  
   a. 03_NPV  
   b. NPV_Discount_Rate_Calculator  
+
+4. Portfolio Optimization  
+  a. 04_Portfolio_Optimization  
