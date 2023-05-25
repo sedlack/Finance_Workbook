@@ -19,4 +19,5 @@ This repository contains the following files:
   a. 04_Portfolio_Optimization  
 
 5. Financial Statement Analysis - PDF Reader   
-  a. 05_FS_Analysis    
+  a. Sample_Income_Statement     
+  b. 05_FS_Analysis 
