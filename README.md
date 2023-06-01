@@ -21,3 +21,7 @@ This repository contains the following files:
 5. Financial Statement Analysis - PDF Reader   
   a. Sample_Income_Statement     
   b. 05_FS_Analysis 
+
+6. Derivative Analysis   
+  a. 06_Put_Call_Parity    
+  b. 06_Option_Strategy  
