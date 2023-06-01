@@ -22,6 +22,8 @@ This repository contains the following files:
   a. Sample_Income_Statement     
   b. 05_FS_Analysis 
 
-6. Derivative Analysis   
+6. Put Call Parity 
   a. 06_Put_Call_Parity    
-  b. 06_Option_Strategy  
+  
+7. Option Strategies  
+  b. 07_Option_Strategy  
